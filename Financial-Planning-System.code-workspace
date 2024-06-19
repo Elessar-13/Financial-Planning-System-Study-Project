@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Financial-Planning-System",
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": "../../../Desktop/Uni/accadis/Python Coding/app/.git"
+		},
+		{
+			"name": "static",
+			"path": "../../../Desktop/Uni/accadis/Python Coding/app/static"
+		},
+		{
+			"name": "templates",
+			"path": "../../../Desktop/Uni/accadis/Python Coding/app/templates"
+		},
+		{
+			"name": "tests",
+			"path": "../../../Desktop/Uni/accadis/Python Coding/app/tests"
+		},
+		{
+			"name": "venv",
+			"path": "../../../Desktop/Uni/accadis/Python Coding/app/venv"
+		}
+	],
+	"settings": {}
+}
